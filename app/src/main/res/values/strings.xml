@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Selling Flowers</string>
+    <string name="business_name">Business Name: </string>
+    <string name="selling_flower">Selling Flower</string>
+    <string name="e_mail_address">E-mail address:</string>
+    <string name="maryammuh1960_gmail_com">maryammuh1960@gmail.com</string>
+    <string name="work_address">work address:</string>
+    <string name="jordan_irbid">Jordan-Irbid</string>
+    <string name="job_description">Job description:</string>
+    <string name="selling_all_kind_of_flower">Selling all kind of flower</string>
+    <string name="work_hours">Work Hours:</string>
+    <string name="from_7am_to_7bm">From 7Am to 7Bm</string>
+</resources>
